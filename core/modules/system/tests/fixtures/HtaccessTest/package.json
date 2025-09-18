@@ -1,1 +1,11 @@
-{}
+{
+    "name": "htaccess-test",
+    "version": "1.0.0",
+    "description": "Deliberately vulnerable package.json for scanner testing",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+      "lodash": "4.17.4"
+    }
+  }
+  
